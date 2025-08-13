@@ -5,7 +5,7 @@ FALCON - Financial Analysis Labor Cost Optimization Navigator
 Financial Analysis Labor Cost Optimization Navigator for aviation industry workforce planning.
 
 ## 🚀 Live Demo
-[View FALCON Tool](https://shrejo2598.github.io/falcon-labor-analysis/)
+[View FALCON Tool](https://shrejo2598.github.io/Falcon-Labor-Analysis/)
 
 ## 📊 Features
 - Multi-year labor cost projections
