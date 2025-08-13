@@ -14,5 +14,5 @@ Financial Analysis Labor Cost Optimization Navigator for aviation industry workf
 - Mobile-responsive design
 
 ## 💼 Built For
-Financial Planning & Analysis professionals in the aviation industry
+Financial Planning & Labor Analysis professionals in the aviation industry
 
