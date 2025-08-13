@@ -1,5 +1,5 @@
-FALCON - Financial Analysis Labor Cost Optimization Navigator
-# ✈️ FALCON - Labor Cost Analysis Tool
+
+# ✈️ FALCON - Financial Analysis Labor Cost Optimization Navigator
 
 Financial Analysis Labor Cost Optimization Navigator for aviation industry workforce planning.
 
